@@ -13,7 +13,7 @@
                     <span class="nav-head-txt">Home</span>
                 </button>
                 <div class="nav-list">
-                    <button class="nav-btn" data-src="play.html" title="Updated â€” new games added">
+                    <button class="nav-btn" data-src="home.html" title="Updated â€” new games added">
                         <i class="fa-solid fa-gamepad"></i><span class="nb-label">Play</span><span class="nb-badge">updated</span>
                     </button>
                     <button class="nav-btn" data-src="apps.html">
