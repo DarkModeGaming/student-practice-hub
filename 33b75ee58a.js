@@ -8,7 +8,7 @@
 
         <div class="nav-panel" id="navPanel">
             <div class="nav-main">
-                <button class="nav-head" data-src="home.html" title="Home">
+                <button class="nav-head" data-src="play.html" title="Home">
                     <i class="fa-solid fa-house"></i>
                     <span class="nav-head-txt">Home</span>
                 </button>
